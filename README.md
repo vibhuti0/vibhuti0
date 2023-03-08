@@ -1,6 +1,7 @@
 ### Hi there 👋I'm VIBHUTI JOSHI
 Sophomore at SRMIST,KTR
-   Hi,I'm Vibhuti Pursuing B.Tech in COMPUTER SCIENCE AND ENGINEERING WITH SPECIALIZATION IN SOFTWARE ENGINEERING
+   
+   Pursuing B.Tech in COMPUTER SCIENCE AND ENGINEERING WITH SPECIALIZATION IN SOFTWARE ENGINEERING
    an SRM INSTITUTE OF SCIENCE AND TECHNOLOGY,CHENNAI,INDIA
 - 🌱 I’m currently learning Web Development,Python
 - 📫 How to reach me: https://www.linkedin.com/in/vibhuti-joshi-1671a0227
