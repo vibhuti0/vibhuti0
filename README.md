@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhuti0" alt="vibhuti0" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, Python**
-
+- 🌱 I’m currently learning **Full Stack web Development**
+- 👯 I'm looking to collaborate on **Web Development projects**
 - 📫 How to reach me **https://www.linkedin.com/in/vibhuti-joshi-1671a0227**
+- ⚡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
