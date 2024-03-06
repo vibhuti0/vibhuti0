@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Full Stack web Development**
 - 👯 I'm looking to collaborate on **Web Development projects**
 - 📫 How to reach me **https://www.linkedin.com/in/vibhuti-joshi-1671a0227**
-- ⚡
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
